@@ -7,7 +7,7 @@ Record actual contributions only. Each day, note the contributor(s), commit hash
 
 | Day | Date | Contributor(s) | Commit | Record / next step |
 |---:|---|---|---|---|
-| 1 | 2026-10-12 | TBD | Pending | Initialize repository, team workflow, and daily tracker. |
+| 1 | 2026-10-12 | Shobhit52 | `de1abde` | Initial commit: repository README, five-person team placeholders, collaboration guidance, and the 10-day tracker. |
 | 2 | 2026-10-13 | TBD | — | |
 | 3 | 2026-10-14 | TBD | — | |
 | 4 | 2026-10-15 | TBD | — | |
