@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
-.pytest_cache/
 
 # Editors and operating systems
 .vscode/
@@ -11,10 +10,7 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Local environment and generated data
+# Local environment and secrets
 .env
 .env.*
 !.env.example
-data/private/
-outputs/
-*.log
