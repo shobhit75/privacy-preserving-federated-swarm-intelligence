@@ -4,7 +4,7 @@
 **Start date:** 2026-10-12  
 **Team size:** 5
 
-Record actual contributions only. Commit hashes should be verified from Git history.
+.
 
 | Day | Date | Contributor(s) | Commit | Record / Next Step |
 |-----|------|---------------|--------|--------------------|
